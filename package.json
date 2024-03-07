@@ -1,0 +1,30 @@
+{
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index",
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-client": "^2.6.10",
+    "apollo-server": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "graphql": "^14.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "3.0",
+    "mongoose": "^5.5.11",
+    "react-router-dom": "^6.22.2",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
