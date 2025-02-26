@@ -50,7 +50,7 @@ They can choose either behavioral or technical interviews, get structured feedba
 **GraphQL API:** Gets the data for real-time updates  
 
 ### **How It Works:**  
-1️ **User logs in & schedules an interview**  
-2️ **Another user (interviewer) accepts the request**  
-3️ **Live interview happens (structured Q&A)**  
-4️ **Feedback is submitted & stored for review**  
+1️ User logs in & schedules an interview  
+2️ Another user (interviewer) accepts the request  
+3️ Live interview happens (structured Q&A)  
+4️ Feedback is submitted & stored for review  
