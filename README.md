@@ -30,14 +30,14 @@ They can choose either behavioral or technical interviews, get structured feedba
 
 
 
-**Superpower:** "The power to "
+**Superpower:** "The power to shapeshift you into a professional"
 
 ---
 
 ## 🔥 Core Features  
 **User Authentication** – A sign up or login system.  
 **Schedule a Mock Interview** – Being able to pick a date and time with a specific topic
-**Live Interview Session** – Where it gives a timed Q&A
+**Live Interview Session** – Where it gives a timed Q&A  
 **Feedback & Ranking or Rating System** – Interviewers can give structured feedback  
 **Past Responses & just Statistics** – For users to see how much they improve and be able to see past interviews.
 
